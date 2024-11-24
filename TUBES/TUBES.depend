@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1732042718 source:d:\strukdat\tubes\mobil.cpp
+	"Mobil.h"
+
+1732042516 d:\strukdat\tubes\mobil.h
+	<iostream>
+
+1732042815 source:d:\strukdat\tubes\customer.cpp
+	"Customer.h"
+
+1731665641 d:\strukdat\tubes\customer.h
+	<iostream>
+
+1732045777 source:d:\strukdat\tubes\main.cpp
+	"customer.h"
+	"mobil.h"
+	"Relasi.h"
+	<iostream>
+
+1732043896 d:\strukdat\tubes\relasi.h
+	"customer.h"
+	"mobil.h"
+	<iostream>
+
+1732046004 source:d:\strukdat\tubes\relasi.cpp
+	"relasi.h"
+
